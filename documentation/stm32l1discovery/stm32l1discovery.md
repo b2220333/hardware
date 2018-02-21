@@ -1,4 +1,4 @@
-## STM32L1 Discovery Kit (reference development board)
+## STM32L1 Discovery Kit
 
 ![](../../imgs/STM32L1DISCOVERY.jpg)
 
