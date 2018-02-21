@@ -8,9 +8,9 @@ has plenty of resources and all GPIO ports are available on extension connectors
 
 ### Relevant information about the board
 - [Board official web page](http://www.st.com/en/evaluation-tools/32l152cdiscovery.html#quickview-scroll)
-- [Schematics](../../schematics/stm32-l152/)
-- [Design files](../../design_files/stm32-l152/)
-- [User manual](./STM32-L152.pdf)
+- [Schematics](../../schematics/stm32l1discovery/)
+- [Design files](../../design_files/stm32l1discovery/)
+- [User manual](./STM32L1DISCOVERY.pdf)
 
 ### Tutorials and additional material
 - [Set up the development environment](https://github.com/microROS/docker/tree/master/stm32l1discovery)
