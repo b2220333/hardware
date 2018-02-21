@@ -7,23 +7,21 @@ STM32F4 series of microcontrollers. Particularly, the reference development boar
 `Olimex LTD STM32-E407`. More information about this development board can be found in the
 [Olimex LTD STM32-E407 instructions](documentation/stm32-e407/stm32-e407.md) file.
 
-### Other boards (*work in progress*)
+### Supporting a new board
+TODO: provide instructions on how one should proceed to get a new board supported.
+
+
+### Other boards (*work in progress (WIP)* )
 
 - **ultra low resources**:
-   - [STM32VLDISCOVERY (STM32F1)]()
-   - [STM32L-DISCOVERY (STM32F4L1)]()
-   - [Nucleo-64 (STM32F103)]()
-   - [Nucleo-64 (STM32L152)]()
+   - STM32VLDISCOVERY (STM32F1)
+   - STM32L-DISCOVERY (STM32F4L1)
+   - Nucleo-64 (STM32F103)
+   - Nucleo-64 (STM32L152)
 - **low resources**:
    - *None for now*
 - **safety-compliant**:
-   - [Texas Instruments LAUNCHXL-TMS57004]()
-
-### Supported micro-controllers
-TODO: decide on whether it makes sense or not to list them.
-
-### Supporting a new board
-TODO
+   - Texas Instruments LAUNCHXL-TMS57004
 
 ### License
 Unless specified, the content and material available here is open source and
