@@ -1,6 +1,6 @@
 ## STM32L1 Discovery Kit (reference development board)
 
-![](../../imgs/STM32-L152.jpg)
+![](../../imgs/STM32L1DISCOVERY.jpg)
 
 The STM32L1 Discovery Kit is an open hardware ultra low power and low-cost entry board for developing custom applications
 with the STM32L152RCT6 Cortex M3 microcontrollers from STMicroelectronics. This board
