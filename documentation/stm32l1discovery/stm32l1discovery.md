@@ -18,5 +18,6 @@ has plenty of resources and all GPIO ports are available on extension connectors
 - [Registering a NuttX driver](https://github.com/microROS/NuttX/issues/3)
 - [Developing a custom driver for NuttX](https://github.com/microROS/NuttX/issues/9)
 - [Using Serial Communication in you app](https://github.com/microROS/NuttX/issues/10)
+- [How to use I2C in NuttX](https://github.com/microROS/NuttX/issues/11)
 - [Developing a NuttX application (app)](#) (WIP)
 - [Using (e.g. Ethernet) communication interface](#) (WIP)
