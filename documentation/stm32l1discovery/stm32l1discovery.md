@@ -20,4 +20,4 @@ has plenty of resources and all GPIO ports are available on extension connectors
 - [Using Serial Communication in you app](https://github.com/microROS/NuttX/issues/10)
 - [How to use I2C in NuttX](https://github.com/microROS/NuttX/issues/11)
 - [Developing a NuttX application (app)](https://github.com/microROS/NuttX/issues/12)
-- [Using (e.g. Ethernet) communication interface](#) (WIP)
+- [How to active/port new features to your board](https://github.com/microROS/NuttX/issues/14)
