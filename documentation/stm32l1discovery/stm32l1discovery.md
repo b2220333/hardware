@@ -11,6 +11,7 @@ has plenty of resources and all GPIO ports are available on extension connectors
 - [Schematics](../../schematics/stm32l1discovery/)
 - [Design files](../../design_files/stm32l1discovery/)
 - [User manual](./STM32L1DISCOVERY.pdf)
+- [What do you need to program and use it?](https://github.com/microROS/NuttX/issues/15)
 
 ### Tutorials and additional material
 - [Set up the development environment](https://github.com/microROS/docker/tree/master/stm32l1discovery)
