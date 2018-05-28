@@ -22,3 +22,4 @@ has plenty of resources and all GPIO ports are available on extension connectors
 - [How to use I2C in NuttX](https://github.com/microROS/NuttX/issues/11)
 - [Developing a NuttX application (app)](https://github.com/microROS/NuttX/issues/12)
 - [How to active/port new features to your board](https://github.com/microROS/NuttX/issues/14)
+- [How to add an external library](https://github.com/microROS/NuttX/issues/28)
